@@ -14,6 +14,9 @@ A Beautifully designed Online Bookstore that contains multiple Books, the site a
 
 Also, before purchasing any book you will be redirected to the login or signup page. So that new users can sign up on the site and then can buy their favorite book. The site also informs which book is available and which is out of stock!
 
+checkout the site here: Deployed App (little note below) - https://dj-bookstore.onrender.com/
+(Note: The website can take upto 30 seconds (hosted on Render free tier services), as the project has no clients, its just for learning, please refer the source code to run locally).
+
 
 
 
