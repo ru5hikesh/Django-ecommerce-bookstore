@@ -22,7 +22,7 @@ User Login: Users will be sent to the login or signup page before they continue 
 
 Stock Information: The website explicitly sends indicators of the availability of books, suggesting which are available and which are out of stock currently.
 
-Access: Access the deployed application here: https://dj-bookstore.onrender.com/
+Access: Access the deployed application here: https://dj-bookstore.onrender.com/ , it will take 30sec to load, so please wait.
 
 Note: Because of the free tier it is deployed on render, this website may have a loading time of more than 30 seconds. This project is for learning purposes only, and users are asked to refer to the source code for local deployment.
 
